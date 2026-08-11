@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/marcusj12/threat-hunting-scenario-tor-)**
  -->
 
- ## :Computer: Systems Administration & Infrastructure Projects
+ ## :desktop_computer: Systems Administration & Infrastructure Projects
 
 - **[Windows Active Directory(Identity and Access](https://github.com/marcusj12/Widows-AD-Identity-and-Access)**
 <hr/>
