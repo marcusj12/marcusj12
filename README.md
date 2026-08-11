@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
  ## :desktop_computer: Systems Administration & Infrastructure Projects
 
-- **[Windows Active Directory(Identity and Access](https://github.com/marcusj12/Widows-AD-Identity-and-Access))**
+- **[Windows Active Directory(Identity and Access)](https://github.com/marcusj12/Widows-AD-Identity-and-Access)**
 <hr/>
 
 ## 🤳 Connect With Me
