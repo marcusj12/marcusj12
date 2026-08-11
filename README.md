@@ -7,10 +7,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/marcusj12/vulnerability-management-program)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting and Security Operations Projects
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/marcusj12/threat-hunting-scenario-tor-)**
  -->
+
+ ## :Computer: Systems Administration & Infrastructure Projects
 
 - **[Windows Active Directory(Identity and Access](https://github.com/marcusj12/Widows-AD-Identity-and-Access)**
 <hr/>
