@@ -2,7 +2,7 @@
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-
+<!--
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/marcusj12/vulnerability-management-program)**
@@ -10,7 +10,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/marcusj12/threat-hunting-scenario-tor-)**
+ -->
 
+- **[Windows Active Directory(Identity and Access](https://github.com/marcusj12/Widows-AD-Identity-and-Access)**
 <hr/>
 
 ## 🤳 Connect With Me
