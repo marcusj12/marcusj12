@@ -1,6 +1,13 @@
-# <a href="https://www.linkedin.com/in/marcus-jennings/">Marcus Jennings</a> IT, Cybersecurity and Developer Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/marcus-jennings/">Hi, I'm Marcus Jennings</a> Welcome to my IT, Cybersecurity and Developer Project Portfolio 🔐
+"A never ending journey of life long learning"
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I’m passionate about cybersecurity and enjoy solving complex security challenges through hands-on projects, security engineering, and continuous learning.
+
+This portfolio showcases my practical work across areas such as vulnerability management, threat detection, security operations, and security automation. Each project is designed to strengthen my technical skills while exploring how cybersecurity tools and processes can be applied to real-world security challenges.
+
+From identifying vulnerabilities to investigating threats and improving security operations, these projects demonstrate my approach to building, testing, troubleshooting, and continuously improving security solutions.
+
+Feel free to explore the projects below and see the work I’ve put into developing practical cybersecurity skills and strengthening security operations.
 
 <!--
 ## ⚠️ Vulnerability Management Projects
@@ -14,7 +21,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
  ## :desktop_computer: Systems Administration & Infrastructure Projects
 
-- **[Windows Active Directory(Identity and Access)](https://github.com/marcusj12/Widows-AD-Identity-and-Access)**
+- **[Windows Active Directory(Identity and Access Management)](https://github.com/marcusj12/Widows-AD-Identity-and-Access)**
 <hr/>
 
 ## 🤳 Connect With Me
