@@ -11,9 +11,11 @@ Feel free to explore the projects below and see the work I’ve put into develop
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/marcusj12/vulnerability-management-program)**
-
+-->
 ## 🚨 Threat Hunting and Security Operations Projects
 
+- **https://github.com/marcusj12/AutoLogHunter-Python-Scripting-**
+<!--
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/marcusj12/threat-hunting-scenario-tor-)**
  -->
 
