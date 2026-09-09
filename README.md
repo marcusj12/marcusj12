@@ -1,9 +1,9 @@
 # Hi, I'm <a href="https://www.linkedin.com/in/marcus-jennings/"> Marcus Jennings</a>, Welcome to my IT, Cybersecurity and Developer Project Portfolio 🔐
 ##### *A never ending journey of life long learning*
 
-This portfolio showcases my practical work across areas such as vulnerability management, threat detection, security operations, and security automation. Each project is designed to strengthen my technical skills while exploring how cybersecurity tools and processes can be applied to real-world security challenges.
+This portfolio showcases my practical work across areas such as AI, vulnerability management, threat detection, security operations, and security automation, Eningeering. Each project is designed to strengthen my technical skills.
 
-From identifying vulnerabilities to investigating threats and improving security operations, these projects demonstrate my approach to building, testing, troubleshooting, and continuously improving security solutions.
+These projects demonstrate my approach to building, testing, troubleshooting, continuously improving my security solutions and knowledge base.
 
 Feel free to explore the projects below and see the work I’ve put into developing practical cybersecurity skills and strengthening security operations.
 
