@@ -19,6 +19,8 @@ Feel free to explore the projects below and see the work I’ve put into develop
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/marcusj12/threat-hunting-scenario-tor-)**
  -->
 
+ - ** [Azure SignInLog Workbook]()**
+
  ## :desktop_computer: Systems Administration & Infrastructure Projects
 
 - **[Windows Active Directory(Identity and Access Management)](https://github.com/marcusj12/Widows-AD-Identity-and-Access)**
