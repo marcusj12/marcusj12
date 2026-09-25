@@ -19,7 +19,7 @@ Feel free to explore the projects below and see the work I’ve put into develop
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/marcusj12/threat-hunting-scenario-tor-)**
  -->
 
- - ** [Azure SignInLog Workbook]()**
+ - ** [Azure SignInLog Workbook](https://github.com/marcusj12/Azure-SignInLog-Workbook/tree/main)**
 
  ## :desktop_computer: Systems Administration & Infrastructure Projects
 
