@@ -7,6 +7,10 @@ These projects demonstrate my approach to building, testing, troubleshooting, co
 
 Feel free to explore the projects below and see the work I’ve put into developing practical cybersecurity skills and strengthening security operations.
 
+
+## Full-Stack & AI Projects 
+
+- **[AI MealGenerator App](https://github.com/marcusj12/Meal-generator/tree/main)**
 <!--
 ## ⚠️ Vulnerability Management Projects
 
@@ -18,7 +22,6 @@ Feel free to explore the projects below and see the work I’ve put into develop
 <!--
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/marcusj12/threat-hunting-scenario-tor-)**
  -->
-
  - **[Azure SignInLog Workbook](https://github.com/marcusj12/Azure-SignInLog-Workbook/tree/main)**
 
  ## :desktop_computer: Systems Administration & Infrastructure Projects
